@@ -10,3 +10,15 @@ https://github.com/swifty-iOS/RadioCheckboxButton
 ### SimpleCheckbox
 https://github.com/BeauNouvelle/SimpleCheckbox
 ![](https://github.com/BeauNouvelle/SimpleCheckbox/raw/master/demo/images/banner.png)
+
+### CheckBox
+https://github.com/ragaie/CheckBox
+![](https://github.com/ragaie/CheckBox/raw/master/CheckBox/screen%20shot%20/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202017-11-22%20at%2016.07.46.png)
+
+### TKAnimatedCheckButton
+https://github.com/entotsu/TKAnimatedCheckButton
+![](https://raw.githubusercontent.com/entotsu/TKAnimatedCheckButton/master/demo.gif)
+
+### CheckboxButton
+https://github.com/chrisamanse/CheckboxButton
+![](https://github.com/chrisamanse/CheckboxButton/raw/master/Images/CheckboxButton.png)
