@@ -5,3 +5,8 @@ https://github.com/swifty-iOS/RadioCheckboxButton
 ![](https://github.com/swifty-iOS/RadioCheckboxButton/raw/master/Images/Checkbox1.gif)
 ![](https://github.com/swifty-iOS/RadioCheckboxButton/raw/master/Images/Radio1.gif)
 ![](https://github.com/swifty-iOS/RadioCheckboxButton/raw/master/Images/Radio2.gif)
+
+
+### SimpleCheckbox
+https://github.com/BeauNouvelle/SimpleCheckbox
+![](https://github.com/BeauNouvelle/SimpleCheckbox/raw/master/demo/images/banner.png)
