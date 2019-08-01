@@ -19,3 +19,6 @@ http://robb.is/working-on/a-hamburger-button-transition
 
 ## Check animation
 https://github.com/entotsu/TKAnimatedCheckButton
+
+## Animation slider
+https://github.com/1992Shubham/Slide-Up-Animation
