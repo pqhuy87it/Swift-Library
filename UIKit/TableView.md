@@ -11,3 +11,11 @@ https://github.com/okhanokbay/ExpyTableView
 https://github.com/jeantimex/ios-swift-collapsible-table-section
 - A simple iOS Swift project demonstrates how to implement collapsible table section.
 ![](https://user-images.githubusercontent.com/565300/33296371-1c17e332-d390-11e7-910b-947ed42fcbb3.gif)
+
+### ParallaxHeader
+https://github.com/romansorochak/ParallaxHeader
+![](https://github.com/romansorochak/ParallaxHeader/raw/master/Exmple/Demo_with_blur.gif)
+
+### ios-swift-collapsible-table-section
+https://github.com/jeantimex/ios-swift-collapsible-table-section
+![](https://user-images.githubusercontent.com/565300/33296371-1c17e332-d390-11e7-910b-947ed42fcbb3.gif)
