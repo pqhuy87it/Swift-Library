@@ -46,3 +46,7 @@ Declarative approach to populate and manage UITableViews
 https://github.com/ra1028/DiffableDataSources
 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 ![](https://raw.githubusercontent.com/ra1028/DiffableDataSources/master/assets/insertion_sort.gif)
+
+### Panda
+https://github.com/nangege/Panda
+Panda is an asynchronous render and layout framework which can be used to achieve high performance tableview.
