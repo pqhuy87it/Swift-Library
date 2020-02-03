@@ -7,3 +7,8 @@ https://github.com/tmdvs/TDBadgedCell
 https://github.com/kf99916/TimelineTableViewCell
 - Simple timeline view implemented by UITableViewCell
 ![](https://github.com/kf99916/TimelineTableViewCell/raw/master/screenshots/timelineTableView-2.png)
+
+### SwipeCellKit
+https://github.com/SwipeCellKit/SwipeCellKit
+![](https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif)
+
