@@ -19,3 +19,16 @@ https://github.com/romansorochak/ParallaxHeader
 ### ios-swift-collapsible-table-section
 https://github.com/jeantimex/ios-swift-collapsible-table-section
 ![](https://user-images.githubusercontent.com/565300/33296371-1c17e332-d390-11e7-910b-947ed42fcbb3.gif)
+
+### ExpandableCell
+https://github.com/younatics/ExpandableCell
+![](https://github.com/younatics/ExpandableCell/raw/master/Images/ExpandableCell.gif)
+
+### ListPlaceholder
+https://github.com/malkouz/ListPlaceholder
+ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.
+![](https://github.com/malkouz/ListPlaceholder/raw/master/demo.gif)
+
+### TableViewDragger
+https://github.com/KyoheiG3/TableViewDragger
+![](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
