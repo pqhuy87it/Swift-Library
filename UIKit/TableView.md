@@ -32,3 +32,12 @@ ListPlaceholder is a swift library allows you to easily add facebook style anima
 ### TableViewDragger
 https://github.com/KyoheiG3/TableViewDragger
 ![](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
+
+### YNExpandableCell
+https://github.com/younatics/YNExpandableCell
+![](https://github.com/younatics/YNExpandableCell/raw/master/Images/demo.gif)
+
+### Flow
+https://github.com/malcommac/Flow
+Declarative approach to populate and manage UITableViews
+![](https://raw.githubusercontent.com/malcommac/Flow/master/Assets/ARCHITECTURE.png)
