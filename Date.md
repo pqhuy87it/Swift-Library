@@ -13,3 +13,6 @@ https://github.com/itsmeichigo/DateTimePicker
 https://github.com/melvitax/DateHelper
 ![](https://raw.githubusercontent.com/melvitax/DateHelper/master/logo.png)
 
+### DatePickerDialog-iOS-Swift
+https://github.com/squimer/DatePickerDialog-iOS-Swift
+![](https://raw.githubusercontent.com/squimer/DatePickerDialog-iOS-Swift/master/images/screen1.png)
