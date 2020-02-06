@@ -23,3 +23,35 @@ https://github.com/nixzhu/KeyboardMan
 We may need keyboard infomation from keyboard notifications to do animation. 
 However, the approach is complicated and easy to make mistakes. 
 Even more, we need to handle the bug of system fire keyboard notifications.
+
+### KeyboardController
+https://github.com/michalkonturek/KeyboardController
+Simplifies iOS keyboard handling.
+
+### KeyboardAvoiding
+https://github.com/a2/KeyboardAvoiding
+A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets.
+
+### KeyboardTextField
+https://github.com/yushuyi/KeyboardTextField
+KeyboardTextField is a lightweight, simple, non-invasive keyboard accompanying input box! Write in Swift!
+
+### KeyboardObserver
+https://github.com/morizotter/KeyboardObserver
+For less complicated keyboard event handling.
+
+### UnderKeyboard
+https://github.com/evgenyneu/UnderKeyboard
+An iOS libary for moving content from under the keyboard.
+
+### AutoKeyboardScrollView
+https://github.com/honghaoz/AutoKeyboardScrollView
+AutoKeyboardScrollView is an UIScrollView subclass which makes showing and dismissing keyboard for UITextFields much easier
+
+### Keyboardy
+https://github.com/podkovyrin/Keyboardy
+UIViewController extension for convenient keyboard management.
+
+### MGKeyboardAccessory
+https://github.com/lm2343635/MGKeyboardAccessory
+![](https://raw.githubusercontent.com/lm2343635/MGKeyboardAccessory/master/screenshot/demo.png)
