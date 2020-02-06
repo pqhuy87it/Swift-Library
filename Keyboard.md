@@ -55,3 +55,7 @@ UIViewController extension for convenient keyboard management.
 ### MGKeyboardAccessory
 https://github.com/lm2343635/MGKeyboardAccessory
 ![](https://raw.githubusercontent.com/lm2343635/MGKeyboardAccessory/master/screenshot/demo.png)
+
+### FormToolbar
+https://github.com/sgr-ksmt/FormToolbar
+![](https://github.com/sgr-ksmt/FormToolbar/raw/master/docs/sample.gif)
