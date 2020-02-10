@@ -32,3 +32,9 @@ https://github.com/belozierov/PosixDispatch
 
 ### Future
 https://github.com/luoxiu/Future
+
+### SwiftUI-Todo-Redux
+https://github.com/moflo/SwiftUI-Todo-Redux
+
+### Future
+https://github.com/luoxiu/Future
