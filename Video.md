@@ -18,3 +18,17 @@ https://github.com/mobileplayer/mobileplayer-ios
 - A powerful and completely customizable media player for iOS
 ![](https://camo.githubusercontent.com/242f0c4503eefd9c52b36fea3485151c1dd501be/687474703a2f2f692e696d6775722e636f6d2f4a365170534b622e676966)
 
+### AVPlayerViewController-Subtitles
+https://github.com/mhergon/AVPlayerViewController-Subtitles
+
+### EZPlayer
+https://github.com/easyui/EZPlayer
+
+### VGPlayer
+https://github.com/VeinGuo/VGPlayer
+
+### VersaPlayer
+https://github.com/josejuanqm/VersaPlayer
+
+![](https://github.com/josejuanqm/VersaPlayer/raw/master/RepoAssets/iphone.png)
+
