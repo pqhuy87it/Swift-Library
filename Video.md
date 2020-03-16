@@ -32,3 +32,7 @@ https://github.com/josejuanqm/VersaPlayer
 
 ![](https://github.com/josejuanqm/VersaPlayer/raw/master/RepoAssets/iphone.png)
 
+### BMPlayer
+https://github.com/BrikerMan/BMPlayer
+
+
