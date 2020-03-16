@@ -13,3 +13,9 @@ https://github.com/analogcode/Swift-Radio-Pro
 ### ColiseuPlayer
 https://github.com/ricardopereira/ColiseuPlayer
 
+### Soundable
+https://github.com/ThXou/Soundable
+Soundable is a tiny library that uses AVFoundation to manage the playing of sounds in iOS applications in a simple and easy way. You can play single audios, in sequence and in parallel, all is handled by the Soundable library and all they have completion closures when playing finishes.
+
+
+
