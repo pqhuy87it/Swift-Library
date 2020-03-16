@@ -21,5 +21,8 @@ Soundable is a tiny library that uses AVFoundation to manage the playing of soun
 https://github.com/evgenyneu/Cephalopod
 This library can help fading sounds in and out with AvAudioPlayer. One can set duration, velocity of the fade and a completion function. Velocity can vary from linear to exponential.
 
+### AudioPlayer
+https://github.com/delannoyk/AudioPlayer
+
 
 
