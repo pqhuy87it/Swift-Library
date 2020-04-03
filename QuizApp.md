@@ -6,6 +6,10 @@ https://github.com/Faizy51/LanguageTranslatorPOC
 
 ![](https://github.com/Faizy51/LanguageTranslatorPOC/raw/master/preview1.gif)
 
+https://github.com/revolalex/OpenQuizz
+
+![](https://user-images.githubusercontent.com/56839789/77522054-e3cf3480-6e83-11ea-8d6c-78ccfa550ae8.gif)
+
 https://github.com/Kylta/QuizApp
 
 https://github.com/mariocaleta/iOSVjestina2019
