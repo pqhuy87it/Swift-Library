@@ -2,6 +2,10 @@ https://github.com/illescasDaniel/Questions
 
 ![](https://github.com/illescasDaniel/Questions/raw/master/images/topicCreatorDark.jpg)
 
+https://github.com/Faizy51/LanguageTranslatorPOC
+
+![](https://github.com/Faizy51/LanguageTranslatorPOC/raw/master/preview1.gif)
+
 https://github.com/Kylta/QuizApp
 
 https://github.com/mariocaleta/iOSVjestina2019
