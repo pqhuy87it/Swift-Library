@@ -10,6 +10,10 @@ https://github.com/hfrahmann/HFCardCollectionViewLayout
 
 ![](https://raw.githubusercontent.com/hfrahmann/HFCardCollectionViewLayout/master/ReadmeAssets/Screenplay.gif)
 
+https://github.com/zhxnlai/ZLSwipeableViewSwift
+
+![](https://github.com/zhxnlai/ZLSwipeableViewSwift/raw/master/Previews/animation.gif)
+
 https://github.com/Ramotion/cardslider
 
 ![](https://github.com/Ramotion/cardslider/raw/master/iOS_Card_Slider.gif)
