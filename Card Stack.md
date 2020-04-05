@@ -39,3 +39,9 @@ https://github.com/yashkhandha/MatchTheCards
 https://github.com/nhoogendoorn/CardStack
 
 ![](https://github.com/nhoogendoorn/CardStack/raw/master/CardStackExample/CardStackExample.gif)
+
+https://github.com/DeviesDevelopment/KSSwipeStack
+
+![](https://camo.githubusercontent.com/0c98618dc067d31bf4a0126d408082f3911d4181/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7738426e6d736a634a79464b552f67697068792e676966)
+
+
