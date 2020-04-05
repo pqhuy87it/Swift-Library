@@ -2,6 +2,10 @@ https://github.com/tispr/tispr-card-stack
 
 ![](https://github.com/tispr/tispr-card-stack/raw/master/Screenshot_main.gif)
 
+https://github.com/Yalantis/Koloda
+
+![](https://github.com/Yalantis/Koloda/raw/master/Koloda_v2_example_animation.gif)
+
 https://github.com/hfrahmann/HFCardCollectionViewLayout
 
 ![](https://raw.githubusercontent.com/hfrahmann/HFCardCollectionViewLayout/master/ReadmeAssets/Screenplay.gif)
