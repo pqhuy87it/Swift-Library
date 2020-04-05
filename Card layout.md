@@ -9,3 +9,8 @@ https://github.com/pgorzelany/ScratchCardView
 https://github.com/Cuberto/fluid-card
 
 ![](https://raw.githubusercontent.com/Cuberto/fluid-card/master/Screenshots/animation.gif)
+
+https://github.com/hussc/PTCardTabBar
+
+![](https://github.com/hussc/PTCardTabBar/raw/master/Screenshots/PTCardTabBar-1.png)
+
