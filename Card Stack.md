@@ -59,3 +59,7 @@ https://github.com/DeviesDevelopment/KSSwipeStack
 https://github.com/JoniVR/VerticalCardSwiper
 
 ![](https://github.com/JoniVR/VerticalCardSwiper/raw/master/example.gif)
+
+https://github.com/filletofish/CardsLayout
+
+![](https://github.com/filletofish/Cards/raw/master/Animation.gif)
