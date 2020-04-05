@@ -10,6 +10,14 @@ https://github.com/hfrahmann/HFCardCollectionViewLayout
 
 ![](https://raw.githubusercontent.com/hfrahmann/HFCardCollectionViewLayout/master/ReadmeAssets/Screenplay.gif)
 
+https://github.com/Ramotion/cardslider
+
+![](https://github.com/Ramotion/cardslider/raw/master/iOS_Card_Slider.gif)
+
+https://github.com/saoudrizwan/CardSlider
+
+![](https://cloud.githubusercontent.com/assets/7799382/23380926/88e837ee-fcf1-11e6-917a-49de8fc8ee13.gif)
+
 https://github.com/KostyaKulakov/SwiftyCards
 
 https://github.com/jobandtalent/CardStackController
