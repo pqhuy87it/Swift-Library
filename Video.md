@@ -35,4 +35,10 @@ https://github.com/josejuanqm/VersaPlayer
 ### BMPlayer
 https://github.com/BrikerMan/BMPlayer
 
+https://github.com/MillmanY/MMPlayerView
+
+![](https://github.com/MillmanY/MMPlayerView/raw/master/demo/transition_demo.gif)
+
+https://github.com/gilesvangruisen/Swift-YouTube-Player
+
 
