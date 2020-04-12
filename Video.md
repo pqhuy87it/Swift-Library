@@ -44,3 +44,5 @@ https://github.com/gilesvangruisen/Swift-YouTube-Player
 https://github.com/BrikerMan/BMPlayer
 
 ![](https://github.com/BrikerMan/resources/raw/master/BMPlayer/demo.gif)
+
+https://github.com/piemonte/Player
