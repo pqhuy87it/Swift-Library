@@ -23,3 +23,5 @@ https://github.com/vadymmarkov/Beethoven
 https://github.com/tbaranes/AudioPlayerSwift
 
 https://github.com/syedhali/AudioStreamer
+
+https://github.com/adamcichy/SwiftySound
