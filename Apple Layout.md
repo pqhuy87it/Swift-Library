@@ -29,3 +29,7 @@ https://github.com/efremidze/Magnetic
 https://github.com/xxxAIRINxxx/MusicPlayerTransition
 
 ![](https://github.com/xxxAIRINxxx/MusicPlayerTransition/raw/master/capture.gif)
+
+https://github.com/nerdsupremacist/FancyScrollView
+
+![](https://github.com/nerdsupremacist/FancyScrollView/raw/master/Demo/FancyScrollView.gif)
