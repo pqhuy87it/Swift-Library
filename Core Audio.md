@@ -4,3 +4,5 @@ https://github.com/AudioKit/AudioKit
 
 https://github.com/kumabook/PlayerKit
 
+https://github.com/tumtumtum/StreamingKit
+
