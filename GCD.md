@@ -2,6 +2,10 @@
 
 https://github.com/duemunk/Async
 
+### Hydra
+
+https://github.com/malcommac/Hydra
+
 ### Queuer
 https://github.com/FabrizioBrancati/Queuer
 ![](https://github.com/FabrizioBrancati/Queuer/raw/master/Resources/Banner.png)
