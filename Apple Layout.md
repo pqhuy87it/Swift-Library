@@ -33,3 +33,13 @@ https://github.com/xxxAIRINxxx/MusicPlayerTransition
 https://github.com/nerdsupremacist/FancyScrollView
 
 ![](https://github.com/nerdsupremacist/FancyScrollView/raw/master/Demo/FancyScrollView.gif)
+
+https://github.com/maxkonovalov/MKRingProgressView
+
+![](https://github.com/maxkonovalov/MKRingProgressView/raw/master/MKRingProgressView.png)
+
+https://github.com/mhlangagc/AppleNews-CollectionView
+
+https://github.com/mhlangagc/News-Collection/raw/master/News/NewsExample.PNG
+
+
