@@ -42,4 +42,6 @@ https://github.com/mhlangagc/AppleNews-CollectionView
 
 https://github.com/mhlangagc/News-Collection/raw/master/News/NewsExample.PNG
 
+https://github.com/nathangitter/fluid-interfaces
 
+![](https://github.com/nathangitter/fluid-interfaces/raw/master/Resources/repo-banner.png)
