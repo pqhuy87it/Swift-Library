@@ -10,3 +10,11 @@ https://github.com/raywenderlich/swift-algorithm-club
 
 https://github.com/ochococo/Design-Patterns-In-Swift
 
+### Awesome-Swift-Playgrounds
+
+https://github.com/uraimo/Awesome-Swift-Playgrounds
+
+### Learn-iOS-Swift-by-Examples
+
+https://github.com/Lax/Learn-iOS-Swift-by-Examples
+
