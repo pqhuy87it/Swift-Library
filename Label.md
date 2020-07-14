@@ -39,3 +39,32 @@ https://github.com/suzuki-0000/CountdownLabel
 
 ![](https://github.com/suzuki-0000/CountdownLabel/raw/master/Screenshots/example01.gif)
 
+https://github.com/SwiftArchitect/TGPControls
+
+![](https://github.com/SwiftArchitect/TGPControls/raw/master/TGPControlDemo.gif)
+
+https://github.com/Fnoz/FNBlingBlingLabel
+
+![](https://github.com/Fnoz/FNBlingBlingLabel/raw/master/readme_images/animating.gif)
+
+https://github.com/EFPrefix/EFCountingLabel
+
+![](https://raw.githubusercontent.com/EFPrefix/EFCountingLabel/master/Assets/example.gif)
+
+https://github.com/apploft/ExpandableLabel
+
+![](https://raw.githubusercontent.com/apploft/ExpandableLabel/master/Resources/ExpandableLabel.gif)
+
+https://github.com/yonat/StepProgressView
+
+![](https://github.com/yonat/StepProgressView/raw/master/screenshots/blue.gif)
+
+https://github.com/Dywane/DWAnimatedLabel
+
+![](https://raw.githubusercontent.com/Dywane/DWAnimatedLabel/master/Gif/wave.gif)
+
+https://github.com/raginmari/RAGTextField
+
+![](https://user-images.githubusercontent.com/1574034/53834949-94724980-3f8c-11e9-9695-b2b4991da67e.png)
+
+
