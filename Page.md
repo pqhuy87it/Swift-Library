@@ -2,6 +2,22 @@ https://github.com/xmartlabs/XLPagerTabStrip
 
 ![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/instagram.gif)
 
+https://github.com/WenchaoD/FSPagerView
+
+![](https://cloud.githubusercontent.com/assets/5186464/22688057/9003d880-ed65-11e6-882e-4587c97c8878.gif)
+
+https://github.com/PageMenu/PageMenu
+
+![](https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuDemo.gif)
+
+https://github.com/hyperoslo/Presentation
+
+![](https://raw.githubusercontent.com/hyperoslo/Presentation/master/Example/Parallax/Images/Parallax-v2.gif)
+
+https://github.com/kitasuke/PagingMenuController
+
+![](https://raw.githubusercontent.com/wiki/kitasuke/PagingMenuController/images/demo4.gif)
+
 https://github.com/ladmini/LZViewPager
 
 ![](https://github.com/ladmini/LZViewPager/raw/master/webimages/demo.gif)
