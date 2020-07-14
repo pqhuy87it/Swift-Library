@@ -1,3 +1,7 @@
+https://github.com/BalestraPatrick/WhatsNew
+
+![](https://github.com/BalestraPatrick/WhatsNew/raw/master/example.png)
+
 https://github.com/jVirus/drawer-view
 
 ![](https://github.com/jVirus/drawer-view/raw/master/assets/drawer-view%20demo%2001.gif)
