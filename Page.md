@@ -1,3 +1,12 @@
+https://github.com/rechsteiner/Parchment
+
+![](https://camo.githubusercontent.com/f5cf1643841bdbde0e7b83147089856725e8e0ce/68747470733a2f2f72656368737465696e65722d70617263686d656e742e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f70617263686d656e742d64656c65676174652e676966)
+
+https://github.com/uias/Tabman
+
+![](https://github.com/uias/Tabman/raw/master/Docs/img/tm_header.png)
+
+
 https://github.com/xmartlabs/XLPagerTabStrip
 
 ![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/instagram.gif)
