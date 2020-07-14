@@ -58,3 +58,11 @@ https://github.com/Ahmadalsofi/SOTabBar
 
 ![](https://github.com/Ahmadalsofi/SOTabBar/raw/master/Screenshots/headerGif.gif)
 
+https://github.com/conmulligan/TabBarPageController
+
+![](https://raw.githubusercontent.com/conmulligan/TabBarPageController/master/Example/Screenshots/3_sm.png)
+
+https://github.com/arnauddorgans/TabBarController
+
+![](https://github.com/arnauddorgans/TabBarController/raw/master/Images/004.gif)
+
