@@ -1,3 +1,7 @@
+https://github.com/xmartlabs/XLPagerTabStrip
+
+![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/instagram.gif)
+
 https://github.com/ladmini/LZViewPager
 
 ![](https://github.com/ladmini/LZViewPager/raw/master/webimages/demo.gif)
