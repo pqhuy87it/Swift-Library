@@ -94,6 +94,32 @@ https://github.com/HamzaGhazouani/HGCircularSlider
 
 ![](https://github.com/HamzaGhazouani/HGCircularSlider/raw/master/Screenshots/Bedtime.gif)
 
+https://github.com/mac-gallagher/MultiProgressView
+
+![](https://raw.githubusercontent.com/mac-gallagher/MultiProgressView/master/Images/example2.gif)
+
+https://github.com/malkouz/MKMagneticProgress
+
+![](https://github.com/malkouz/MKMagneticProgress/raw/master/demo.gif)
+
+https://github.com/khawajafarooq/ProgressMeter
+
+![](https://github.com/khawajafarooq/ProgressMeter/raw/master/screens/steps_example.png)
+
+https://github.com/yashthaker7/TYProgressBar
+
+![](https://github.com/yashthaker7/TYProgressBar/raw/master/ScreenShot/TYProgressBar.gif)
+
+https://github.com/stoneburner/ShowSomeProgress
+
+![](https://github.com/stoneburner/ShowSomeProgress/raw/master/graphics/ProgressCircleDisplay.gif)
+
+https://github.com/hadiidbouk/ChartProgressBar-iOS
+
+![](https://camo.githubusercontent.com/104f4fa7112896416eae6e3939fe0655fcc45d15/68747470733a2f2f692e696d6775722e636f6d2f624d42343966612e706e67)
+
+https://github.com/jkmathew/JKSteppedProgressBar
+
 ### SwiftTask
 
 https://github.com/ReactKit/SwiftTask
