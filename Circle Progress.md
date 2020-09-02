@@ -54,4 +54,12 @@ https://github.com/DevLiuSir/CircleProgressBar
 
 ![](https://github.com/DevLiuSir/CircleProgressBar/raw/master/Design/Showcase.gif)
 
+https://github.com/MatiBot/MBCircularProgressBar
+
+![](https://camo.githubusercontent.com/066003a670c9ee878d3e9426df85f1a99ce00961/68747470733a2f2f7261772e6769746875622e636f6d2f6d617469626f742f4d4243697263756c617250726f67726573734261722f302e322f526561646d652f6578616d706c652e706e67)
+
+https://github.com/Eclair/CircleProgressBar
+
+![](https://raw.githubusercontent.com/Eclair/CircleProgressBar/master/Screenshots/ios-screen02.png)
+
 https://github.com/kerry/KGProgress
