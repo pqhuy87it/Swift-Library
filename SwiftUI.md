@@ -4,6 +4,10 @@ https://github.com/Dimillian/MovieSwiftUI
 
 https://github.com/Juanpe/About-SwiftUI
 
+https://github.com/AppPear/ChartView
+
+![](https://github.com/AppPear/ChartView/raw/master/Resources/showcase1.gif)
+
 https://github.com/dadalar/SwiftUI-CardStackView
 
 ![](https://github.com/dadalar/SwiftUI-CardStackView/raw/master/Example/example.gif?raw=true)
