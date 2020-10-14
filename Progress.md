@@ -125,3 +125,9 @@ https://github.com/jkmathew/JKSteppedProgressBar
 https://github.com/ReactKit/SwiftTask
 
 ![](https://github.com/ReactKit/SwiftTask/raw/swift/4.0/Screenshots/diagram.png)
+
+https://github.com/aporat/KKProgressToolbar
+
+![](https://github.com/aporat/KKProgressToolbar/raw/master/screenshots/ipad-1.png)
+
+
