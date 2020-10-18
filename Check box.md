@@ -22,3 +22,16 @@ https://github.com/entotsu/TKAnimatedCheckButton
 ### CheckboxButton
 https://github.com/chrisamanse/CheckboxButton
 ![](https://github.com/chrisamanse/CheckboxButton/raw/master/Images/CheckboxButton.png)
+
+https://github.com/Marxon13/M13Checkbox
+
+![](https://github.com/Marxon13/M13Checkbox/raw/master/Resources/Samples/Stroke%20Sample.gif)
+
+https://github.com/Boris-Em/BEMCheckBox
+
+![](https://github.com/Boris-Em/BEMCheckBox/raw/master/.assets/BEMCheckBox.gif)
+
+https://github.com/Abedalkareem/AMChoice
+
+![](https://raw.githubusercontent.com/Abedalkareem/AMChoice/master/Screen%20Shot.png)
+
