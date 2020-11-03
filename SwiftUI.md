@@ -54,7 +54,9 @@ https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI
 
 https://github.com/crelies/Beers
 
+https://github.com/nalexn/EnvironmentOverrides
 
+![](https://github.com/nalexn/blob_files/raw/master/images/EnvironmentOverrides.gif?raw=true)
 
 
 
