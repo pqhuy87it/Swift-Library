@@ -13,3 +13,7 @@ https://github.com/saeid/SwiftyOverlay
 https://github.com/rahuliyer95/iShowcase
 
 ![](https://github.com/rahuliyer95/iShowcase/raw/master/assets/3.png)
+
+https://github.com/scihant/CTShowcase
+
+![](https://camo.githubusercontent.com/1f1c1114ceffc9c95a82e9ec7a6189f9710ecc68/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f74656b2d66696c65732f7374617469632e706e67)
