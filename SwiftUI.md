@@ -58,5 +58,11 @@ https://github.com/nalexn/EnvironmentOverrides
 
 ![](https://github.com/nalexn/blob_files/raw/master/images/EnvironmentOverrides.gif?raw=true)
 
+https://github.com/nalexn/clean-architecture-swiftui
 
+![](https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true)
+
+https://github.com/mythxn/DesignCode-SwiftUI
+
+![](https://github.com/mythxn/DesignCode-SwiftUI/raw/master/preview.gif)
 
