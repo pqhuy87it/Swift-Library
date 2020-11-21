@@ -114,4 +114,6 @@ https://github.com/befy/Pep
 
 ![](https://github.com/befy/Pep/raw/master/Screenshots/example.gif)
 
+https://github.com/dhruvikdhanani/CustomTabBar
 
+![](https://github.com/dhruvikdhanani/CustomTabBar/raw/master/MagicTabBar/VC/MagicTabBar.gif)
