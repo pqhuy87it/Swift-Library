@@ -82,3 +82,36 @@ https://github.com/timshim/MightyTabBar
 
 ![](https://raw.githubusercontent.com/timshim/MightyTabBar/master/screen-01.gif)
 
+https://github.com/EmilioPelaez/FloatingTabBarController
+
+![](https://github.com/EmilioPelaez/FloatingTabBarController/raw/master/Images/Gif.gif)
+
+https://github.com/AlbGarciam/AnimatedTabBar
+
+![](https://github.com/AlbGarciam/AnimatedTabBar/raw/master/AnimatedTabBar.gif)
+
+https://github.com/eshwavin/SETabView
+
+![](https://github.com/eshwavin/SETabView/raw/master/Gifs/HoleBall1.gif)
+
+https://github.com/Maks-Jago/MKTabBarItemJumping
+
+![](https://github.com/Maks-Jago/MKTabBarItemJumping/raw/master/dribbble_3.gif)
+
+https://github.com/afshin-hoseini/LimberTabbar.iOS
+
+![](https://github.com/afshin-hoseini/LimberTabbar.iOS)
+
+https://github.com/RedMadRobot/PrioritizedTabBar
+
+![](https://github.com/Redmadrobot/PrioritizedTabBar/raw/master/preview.gif)
+
+https://github.com/arnauddorgans/TabBarController
+
+![](https://github.com/arnauddorgans/TabBarController/raw/master/Images/004.gif)
+
+https://github.com/befy/Pep
+
+![](https://github.com/befy/Pep/raw/master/Screenshots/example.gif)
+
+
