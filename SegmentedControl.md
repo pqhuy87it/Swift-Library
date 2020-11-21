@@ -94,3 +94,6 @@ https://github.com/IhwanID/SegmentedControll-UITableView
 
 https://github.com/liyb93/LBSegmentedControl
 
+https://github.com/sarunw/SWSegmentedControl
+
+![](https://cloud.githubusercontent.com/assets/795368/12671575/2345a69a-c6a3-11e5-94f6-e8cd9e7c0be9.gif)
