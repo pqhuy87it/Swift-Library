@@ -66,3 +66,7 @@ https://github.com/arnauddorgans/TabBarController
 
 ![](https://github.com/arnauddorgans/TabBarController/raw/master/Images/004.gif)
 
+https://github.com/yervandsar/ExpandedTabBar
+
+![](https://github.com/yervandsar/ExpandedTabBar/raw/master/Resources/demo.gif)
+
