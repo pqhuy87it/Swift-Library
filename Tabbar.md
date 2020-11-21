@@ -70,3 +70,15 @@ https://github.com/yervandsar/ExpandedTabBar
 
 ![](https://github.com/yervandsar/ExpandedTabBar/raw/master/Resources/demo.gif)
 
+https://github.com/YuigaWada/PolioPager
+
+![](https://github.com/YuigaWada/PolioPager/raw/master/image/SNKRS.gif)
+
+https://github.com/bardonadam/SlidingTabBar
+
+![](https://github.com/bardonadam/SlidingTabBar/raw/master/screenshot.gif)
+
+https://github.com/timshim/MightyTabBar
+
+![](https://raw.githubusercontent.com/timshim/MightyTabBar/master/screen-01.gif)
+
