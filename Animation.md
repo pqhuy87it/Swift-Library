@@ -22,3 +22,5 @@ https://github.com/entotsu/TKAnimatedCheckButton
 
 ## Animation slider
 https://github.com/1992Shubham/Slide-Up-Animation
+
+https://github.com/shu223/AnimatedTransitionGallery
