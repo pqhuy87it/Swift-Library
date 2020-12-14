@@ -21,3 +21,7 @@ https://github.com/scihant/CTShowcase
 https://github.com/aromajoin/material-showcase-ios
 
 ![](https://github.com/aromajoin/material-showcase-ios/raw/master/art/demo2.png)
+
+https://github.com/ephread/Instructions
+
+![](https://camo.githubusercontent.com/c58fa9cc3aac6141a31a6d9c77b48e40ae39351cd6311af55eb956ad9156f07a/68747470733a2f2f692e696d6775722e636f6d2f5a5942515174742e676966)
