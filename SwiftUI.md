@@ -4,6 +4,8 @@ https://github.com/Dimillian/MovieSwiftUI
 
 https://github.com/Juanpe/About-SwiftUI
 
+![](https://github.com/Juanpe/About-SwiftUI/raw/master/Assets/banner_about_swift.jpg)
+
 https://github.com/AppPear/ChartView
 
 ![](https://github.com/AppPear/ChartView/raw/master/Resources/showcase1.gif)
