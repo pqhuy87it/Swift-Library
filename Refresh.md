@@ -72,3 +72,7 @@ https://github.com/gumob/RxPullToRefresh
 ![](https://raw.githubusercontent.com/gumob/RxPullToRefresh/master/Metadata/screenshot-animation.gif)
 
 https://github.com/IsaacXen/IXRefreshableScrollView
+
+https://github.com/cntrump/SFRefresh
+
+![](https://raw.githubusercontent.com/cntrump/SFRefresh/master/lottiedemo.gif)
