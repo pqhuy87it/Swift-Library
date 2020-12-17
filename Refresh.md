@@ -49,4 +49,17 @@ https://github.com/Antondomashnev/ADChromePullToRefresh
 
 ![](https://camo.githubusercontent.com/0bf7ece19acd3b094f0f731e4f513e05cdfedc4f57361f6763edf5db554b28bb/68747470733a2f2f6170692e6d6f6e6f736e61702e636f6d2f7270632f66696c652f646f776e6c6f61643f69643d72615136435468374b564a31657843756b524f5948356d6a696267774e70)
 
+https://github.com/salmaanahmed/PaginatedTableView
+
+![](https://raw.githubusercontent.com/salmaanahmed/PaginatedTableView/master/demo.gif)
+
+https://github.com/timominous/StatefulTableView
+
+![](https://github.com/timominous/StatefulTableView/raw/master/Screenshots/ss-initial-loading.png)
+
+https://github.com/hoangtaiki/Refreshable
+
+https://github.com/FCXPods/SwiftFCXRefresh
+
+![](https://raw.githubusercontent.com/FCXPods/SwiftFCXRefresh/master/FCXRefresh.gif)
 
