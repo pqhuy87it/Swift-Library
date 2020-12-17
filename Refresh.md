@@ -37,3 +37,16 @@ https://github.com/quickbirdstudios/FlippingNotch
 
 ![](https://camo.githubusercontent.com/bc65bee9d10e40eba1802575f1bdab79bd766eaf38c7f011c7b3ed479371fba5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3739333035372f73637265656e73686f74732f343038393031342f6970686f6e652d782d70756c6c2d746f2d726566726573682e676966)
 
+https://github.com/CRAnimation/CRRefresh
+
+![](https://github.com/CRAnimation/CRRefresh/raw/master/CRRefresh1.gif)
+
+https://github.com/WXGBridgeQ/SwiftPullToRefresh
+
+![](https://github.com/WXGBridgeQ/SwiftPullToRefresh/raw/master/SwiftPullToRefreshDemo/demo01.gif)
+
+https://github.com/Antondomashnev/ADChromePullToRefresh
+
+![](https://camo.githubusercontent.com/0bf7ece19acd3b094f0f731e4f513e05cdfedc4f57361f6763edf5db554b28bb/68747470733a2f2f6170692e6d6f6e6f736e61702e636f6d2f7270632f66696c652f646f776e6c6f61643f69643d72615136435468374b564a31657843756b524f5948356d6a696267774e70)
+
+
