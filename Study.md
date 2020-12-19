@@ -30,3 +30,6 @@ https://github.com/ioscreator/ioscreator
 
 https://github.com/larryhou/swift
 
+### SwiftStructures
+
+https://github.com/waynewbishop/SwiftStructures
