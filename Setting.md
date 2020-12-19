@@ -14,3 +14,7 @@ https://github.com/bcylin/QuickTableViewController
 
 ![](https://raw.githubusercontent.com/bcylin/QuickTableViewController/gh-pages/img/screenshots.png)
 
+https://github.com/chrs1885/Capable
+
+![](https://github.com/chrs1885/Capable/raw/develop/Documentation/Images/features_example_app.png)
+
