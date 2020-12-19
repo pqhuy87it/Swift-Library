@@ -22,3 +22,21 @@ https://github.com/gligorkot/TimeZonePicker
 
 ![](https://github.com/gligorkot/TimeZonePicker/raw/master/Screenshots/Screenshot.png)
 
+https://github.com/IBM/ios-virtual-assistant-app
+
+https://github.com/eugenebokhan/settings-view-controller
+
+![](https://github.com/eugenebokhan/settings-view-controller/raw/master/Media/preview.png)
+
+https://github.com/appcoda/AppSettings
+
+https://github.com/nmint8m/learn-settings-bundle-ios
+
+![](https://github.com/nmint8m/learn-settings-bundle-ios/raw/master/Images/settings.png)
+
+https://github.com/miwand/SettingsExample
+
+https://github.com/Cyberbeni/SettingsGenerator
+
+https://github.com/zhuwt1996/Setting
+
