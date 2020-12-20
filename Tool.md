@@ -39,3 +39,6 @@ https://github.com/malcommac/SwiftLocation
 
 https://github.com/sobri909/LocoKit
 
+https://github.com/d7laungani/DLLocalNotifications
+
+![](https://github.com/d7laungani/DLLocalNotifications/raw/master/Assets/banner.png)
