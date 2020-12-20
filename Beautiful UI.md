@@ -14,3 +14,7 @@ https://github.com/CosmicMind/Material
 https://github.com/IBAnimatable/IBAnimatable
 
 ![](https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif)
+
+https://github.com/cruisediary/Pastel
+
+![](https://github.com/cruisediary/Pastel/raw/master/README/Pastel_01.gif)
