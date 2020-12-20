@@ -33,3 +33,9 @@ https://github.com/KnuffApp/Knuff
 
 ![](https://cloud.githubusercontent.com/assets/499192/12481271/36b610e0-c048-11e5-9be6-ee9e996036a2.png)
 
+https://github.com/malcommac/SwiftLocation
+
+![](https://github.com/malcommac/SwiftLocation/raw/master/SwiftLocationPlayground.png)
+
+https://github.com/sobri909/LocoKit
+
