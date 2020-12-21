@@ -119,3 +119,7 @@ https://github.com/kboy-silvergym/SnapLikeCollectionView
 https://github.com/teambition/TBEmptyDataSet
 
 ![](https://github.com/teambition/TBEmptyDataSet/raw/master/Screenshots/Example.gif)
+
+https://github.com/terminatorover/RGStack
+
+![](https://github.com/terminatorover/RGStack/raw/master/RGStack.gif)
