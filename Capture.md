@@ -18,3 +18,6 @@ https://github.com/GJNilsen/YPDrawSignatureView
 
 https://github.com/NextLevel/NextLevel
 
+https://github.com/mobile-use/manual-capture
+
+![](https://github.com/mobile-use/manual-capture/raw/master/docs/iPhoneScreen0.jpg)
