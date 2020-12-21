@@ -2,6 +2,10 @@ https://github.com/ketanchoyal/theParker-iOS
 
 ![](https://github.com/ketanchoyal/theParker-iOS/raw/Experimental/appLanding.png)
 
+https://github.com/aslanyanhaik/Quick-Chat
+
+![](https://github.com/aslanyanhaik/Quick-Chat/raw/master/screenshot.gif)
+
 https://github.com/lozzoc/ios-messenging-app
 
 https://github.com/likhitgarimella/Firebase-CRUD
@@ -35,4 +39,5 @@ https://github.com/k-o-d-e-n/Realtime
 https://github.com/Onix-Systems/ios-mazazine-reader
 
 https://github.com/brianadvent/FirestoreAppLikeTwitter
+
 
