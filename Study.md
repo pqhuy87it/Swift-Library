@@ -33,3 +33,5 @@ https://github.com/larryhou/swift
 ### SwiftStructures
 
 https://github.com/waynewbishop/SwiftStructures
+
+https://github.com/azamsharp/AzamSharp-Weekly
