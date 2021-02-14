@@ -25,3 +25,5 @@ https://github.com/mobile-use/manual-capture
 https://github.com/SwiftyTesseract/SwiftyTesseractRTE
 
 ![](https://camo.githubusercontent.com/8c6d3351ad964548930a88131b46d7467bd2a57059e194493f2d2e5f4aaea50c/68747470733a2f2f676f6f2e676c2f35725a553656)
+
+https://github.com/vigneshuvi/iOS-Signature-Capture
