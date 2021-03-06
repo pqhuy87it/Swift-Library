@@ -7,3 +7,7 @@ https://github.com/remirobert/CameraEngine
 https://github.com/lxk121lalala/RGBD_data_capture
 
 ![](https://github.com/lxk121lalala/RGBD_data_capture/raw/main/figures/screen1.jpg)
+
+https://github.com/iMhdi/MBDocCapture
+
+![](https://github.com/iMhdi/MBDocCapture/raw/master/MBDocCapture-demo.gif)
