@@ -24,5 +24,8 @@ This library can help fading sounds in and out with AvAudioPlayer. One can set d
 ### AudioPlayer
 https://github.com/delannoyk/AudioPlayer
 
+### HOWL
+https://github.com/dclelland/HOWL
 
+HOWL is a simple formant synthesizer for iOS, written in Swift and built using the AudioKit framework. It makes synthesized vowel noises.
 
