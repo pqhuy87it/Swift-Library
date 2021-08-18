@@ -42,3 +42,11 @@ https://github.com/sobri909/LocoKit
 https://github.com/d7laungani/DLLocalNotifications
 
 ![](https://github.com/d7laungani/DLLocalNotifications/raw/master/Assets/banner.png)
+
+### DirectoryWatcher
+
+LIstener for changes in a specified folder
+
+https://github.com/GianniCarlo/DirectoryWatcher
+
+
