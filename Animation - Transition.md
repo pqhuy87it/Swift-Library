@@ -43,3 +43,9 @@ https://github.com/cemolcay/TransitionManager
 https://github.com/radianttap/CardPresentationController
 
 ![](https://github.com/radianttap/CardPresentationController/raw/master/resources/presentedVC-top.png)
+
+### ExpandableCollectionViewCell
+
+https://github.com/Stormotion-Mobile/ExpandableCollectionViewCell
+
+![](https://github.com/Stormotion-Mobile/ExpandableCollectionViewCell/raw/master/animation.gif)
