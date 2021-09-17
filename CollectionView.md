@@ -142,3 +142,8 @@ https://github.com/roberthein/BouncyLayout
 https://github.com/SoySauceLab/CollectionKit
 ![](https://camo.githubusercontent.com/06c460bc439a722bc9ab0eaae1130605f6c8fbc8/68747470733a2f2f63646e2e7261776769742e636f6d2f536f7953617563654c61622f436f6c6c656374696f6e4b69742f343034353137302f5265736f75726365732f6578616d706c65352e737667)
 
+### CompositionalDiffablePlayground.ios
+
+About Examples showing Compositional Layout, Diffable Data Sources and more!
+
+![](https://camo.githubusercontent.com/cf48758523dab25311ce722a8ab630f12ba0a75c2c7e37a7bb59f37c5b4af91f/68747470733a2f2f6e656d6563656b2e62652f6d656469612f696d616765732f67726f7570732d6578616d706c652e706e67)
