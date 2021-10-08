@@ -172,3 +172,51 @@ https://github.com/jVirus/uicollectionview-layouts-kit
 ### IBPCollectionViewCompositionalLayout
 
 ![](https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif)
+
+### HorizontalStickyHeaderLayout
+
+https://github.com/toshi0383/HorizontalStickyHeaderLayout
+
+![](https://github.com/toshi0383/assets/raw/master/HorizontalStickyHeaderLayout/hshl-iphone7.gif)
+
+### CPCollectionViewKit
+
+https://github.com/ParsifalC/CPCollectionViewKit
+
+![](https://github.com/ParsifalC/CPCollectionViewKit/raw/master/Demos/CPCollectionViewTransitionDemo/TransitionFlowAndStage.gif?raw=true)
+
+### SquareFlowLayout
+
+https://github.com/ChernyshenkoTaras/SquareFlowLayout
+
+![](https://camo.githubusercontent.com/2e21d8793dadaa7aeaf61d3bc71e0fdea6ba6f1216f81808caf6f69db70f21b5/68747470733a2f2f692e696d67666c69702e636f6d2f326d787064692e676966)
+
+### IOStickyHeader
+
+https://github.com/BenjaminPrieur/IOStickyHeader
+
+### ADMozaicCollectionViewLayout
+
+https://github.com/Antondomashnev/ADMozaicCollectionViewLayout
+
+### SquareMosaicLayout
+
+https://github.com/iwheelbuy/SquareMosaicLayout
+
+![](https://github.com/iwheelbuy/SquareMosaicLayout/raw/master/Example/SquareMosaicLayout/ezgif.com-optimize.gif)
+
+### UICollectionViewFlexLayout
+
+https://github.com/devxoul/UICollectionViewFlexLayout
+
+![](https://user-images.githubusercontent.com/931655/28981116-59c51f24-798b-11e7-8877-b4e7f83644d1.jpg)
+
+### compositional-layouts-kit
+
+https://github.com/jVirus/compositional-layouts-kit
+
+### SwiftDataTables
+
+https://github.com/pavankataria/SwiftDataTables
+
+![](https://camo.githubusercontent.com/91e5fe0d5adc847a283cc4061c609dfd265fb79081d1867d667777e079f4eeeb/687474703a2f2f672e7265636f726469742e636f2f4d6839505958423954342e676966)
