@@ -40,4 +40,8 @@ https://github.com/Onix-Systems/ios-mazazine-reader
 
 https://github.com/brianadvent/FirestoreAppLikeTwitter
 
+https://github.com/nelglez/WatchCloud
 
+https://github.com/yenz0r/bonup-mobile
+
+https://github.com/AppGalleryConnect/agc-crash-demo-iOS
