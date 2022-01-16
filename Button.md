@@ -14,10 +14,6 @@ https://github.com/aloco/SimpleButton
 
 ![](https://raw.githubusercontent.com/aloco/SimpleButton/master/Resources/example.gif)
 
-https://github.com/rmzr7/RZVibrantButton
-
-![](https://github.com/a1anyip/AYVibrantButton/raw/master/Readme/screenshot.png?raw=true)
-
 https://github.com/robertherdzik/RHSideButtons
 
 ![](https://github.com/robertherdzik/RHSideButtons/raw/master/Demo/RHSideButtons_R.gif)
