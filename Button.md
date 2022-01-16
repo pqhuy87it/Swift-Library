@@ -30,10 +30,6 @@ https://github.com/exyte/FloatingButton
 
 ![](https://raw.githubusercontent.com/exyte/FloatingButton/master/Assets/demo.gif)
 
-https://github.com/OskarGroth/FlatButton
-
-![](https://camo.githubusercontent.com/beb914e3d7b367ed987bca2b484ee86c5b2dd21c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f63696e646f72692f696d616765732f666c6174627574746f6e2e706e67)
-
 https://github.com/ykyouhei/KYShutterButton
 
 ![](https://cloud.githubusercontent.com/assets/5757351/8271385/a614921e-184f-11e5-9a64-efcd0c1cd0e2.gif)
