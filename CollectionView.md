@@ -167,9 +167,13 @@ https://github.com/jVirus/uicollectionview-layouts-kit
 
 ### CenteredCollectionView
 
+https://github.com/BenEmdon/CenteredCollectionView
+
 ![](https://github.com/BenEmdon/CenteredCollectionView/raw/master/.github/demo.gif)
 
 ### IBPCollectionViewCompositionalLayout
+
+https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout
 
 ![](https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif)
 
