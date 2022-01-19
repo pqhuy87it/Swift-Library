@@ -42,11 +42,4 @@ https://github.com/guoyingtao/Mantis
 
 ![](https://github.com/guoyingtao/Mantis/raw/master/Images/p2.png)
 
-https://github.com/jvk75/UIImageCropper
-
-https://github.com/nkopilovskii/ImageCropper
-
-https://github.com/rzmn/CropView
-
-![](https://github.com/rzmn/CropView/raw/master/sample.gif)
 
