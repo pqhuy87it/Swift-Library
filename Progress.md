@@ -131,3 +131,7 @@ https://github.com/aporat/KKProgressToolbar
 ![](https://github.com/aporat/KKProgressToolbar/raw/master/screenshots/ipad-1.png)
 
 https://github.com/jwd-ali/RProgressView
+
+https://github.com/yonat/StepProgressView
+
+![](https://github.com/yonat/StepProgressView/raw/master/screenshots/blue.gif)
