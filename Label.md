@@ -58,13 +58,6 @@ https://github.com/apploft/ExpandableLabel
 
 ![](https://camo.githubusercontent.com/a4cec7e6a92dc93e1883a2c1fba595f67de4d359/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f533752476a355a42754c74335345723649792f67697068792e676966)
 
-https://github.com/alex-alex/ASAttributedLabelNode
-
-
-https://github.com/yonat/StepProgressView
-
-![](https://github.com/yonat/StepProgressView/raw/master/screenshots/blue.gif)
-
 https://github.com/Dywane/DWAnimatedLabel
 
 ![](https://raw.githubusercontent.com/Dywane/DWAnimatedLabel/master/Gif/wave.gif)
@@ -94,10 +87,6 @@ https://github.com/recruit-mtl/MTLLinkLabel
 https://github.com/joeynelson42/DossyTextLabel
 
 ![](https://camo.githubusercontent.com/a4cec7e6a92dc93e1883a2c1fba595f67de4d359/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f533752476a355a42754c74335345723649792f67697068792e676966)
-
-https://github.com/alex-alex/ASAttributedLabelNode
-
-![](https://cloud.githubusercontent.com/assets/1085707/19052726/ead94478-8985-11e6-8aac-c6aff1c4243a.png)
 
 https://github.com/mkeremkeskin/GradientBorderedLabelView
 
